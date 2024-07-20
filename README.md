@@ -1,6 +1,7 @@
 # Crowdstrike-IOCs
-Crowdstrike IOCs , being used by threat actors 
+Crowdstrike BSOD Issue - IOCs , being used by threat actors 
 
+IOC - Indicator of Compromise 
 
 IOCs: 
 
