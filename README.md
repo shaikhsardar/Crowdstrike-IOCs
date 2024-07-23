@@ -1,5 +1,5 @@
 # Crowdstrike-IOCs
-Crowdstrike BSOD Issue - IOCs , being used by threat actors 
+Crowdstrike BSOD Issue - IOCs,  These are being used by threat actors to target the organizations. Phishing Campaings. 
 
 IOC - Indicator of Compromise 
 
@@ -54,7 +54,17 @@ supportportal[.]crowdstrike[.]com
 isitcrowdstrike[.]com
 crowdstrike[.]black
 crowdstrikefix[.]zip
+crowdstrike.phpartners[.]org
+crowdstrikebsod[.]com
+www.crowdstrike0day[.]com
+www.fix-crowdstrike-bsod[.]com
+www.microsoftcrowdstrike[.]com
+crowdstrikeodayl[.]com
+crowdstrike[.]buzz
+www.crowdstriketoken[.]com
+www.crowdstrikefix[.]com
+crowdstrikedown[.]com
+crowdstrikeblueteam[.]com
 
 
-
-Kindly help to add more IOC by replying to this thread
+#Kindly respond in Conversation to update new IOC's being used by threat actors. 
