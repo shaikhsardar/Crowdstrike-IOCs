@@ -54,6 +54,9 @@ supportportal[.]crowdstrike[.]com
 isitcrowdstrike[.]com
 crowdstrike[.]black
 crowdstrikefix[.]zip
+
+Updated on 23rd July 2024: 
+
 crowdstrike.phpartners[.]org
 crowdstrikebsod[.]com
 www.crowdstrike0day[.]com
